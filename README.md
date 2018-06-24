@@ -21,4 +21,4 @@ I will try and use Prometheus for metrics here if I can. Be on the lookout.
 
 
 ### Contributors 
-You're always more than welcome to help out :-)
+You're always more than welcome to help out.
