@@ -12,6 +12,9 @@ This is a super basic dummy payroll system. Pays employees and keeps records of 
   - Read a list of employees from file and into a vector list
   - Pays these employees
   - Saves a list of processed employees to a separate file
+  
+### Things to be aware of
+I am making use of things such Operator overloading, function pointers, lambdas and vectors here. Just incase you're a beginner in C++.
 
 ### Metrics
 I will try and use Prometheus for metrics here if I can. Be on the lookout.
